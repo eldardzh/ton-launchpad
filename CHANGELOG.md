@@ -10,3 +10,4 @@ This log tracks architectural and documentation refinements.
 - `2025-06-13` — production status update
 - `2025-08-04` — badges + status
 - `2025-08-05` — gitignore
+- `2025-08-05` — surface key invariants
