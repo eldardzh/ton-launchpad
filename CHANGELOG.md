@@ -14,3 +14,4 @@ This log tracks architectural and documentation refinements.
 - `2025-08-05` — clarify component responsibilities
 - `2025-08-07` — cross-link related repositories
 - `2025-08-07` — tighten architecture overview
+- `2025-08-07` — badges + status
