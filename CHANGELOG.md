@@ -16,3 +16,4 @@ This log tracks architectural and documentation refinements.
 - `2025-08-07` — tighten architecture overview
 - `2025-08-07` — badges + status
 - `2025-08-07` — surface key invariants
+- `2025-08-08` — refine engineering invariants
