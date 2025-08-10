@@ -19,3 +19,4 @@ This log tracks architectural and documentation refinements.
 - `2025-08-08` — refine engineering invariants
 - `2025-08-08` — ADR — chain-agnostic boundary
 - `2025-08-08` — expand 'My Role' section
+- `2025-08-10` — rephrase TL;DR
