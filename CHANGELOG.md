@@ -22,3 +22,4 @@ This log tracks architectural and documentation refinements.
 - `2025-08-10` — rephrase TL;DR
 - `2025-08-28` — link external references
 - `2025-11-25` — ADR — reorg-safe projection
+- `2025-11-25` — tighten architecture overview
