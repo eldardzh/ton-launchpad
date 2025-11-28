@@ -25,3 +25,4 @@ This log tracks architectural and documentation refinements.
 - `2025-11-25` — tighten architecture overview
 - `2025-11-26` — contact block tidy
 - `2025-11-27` — capabilities — clarify wording
+- `2025-11-28` — ADR — idempotent execution
