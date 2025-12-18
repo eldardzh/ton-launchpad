@@ -27,3 +27,4 @@ This log tracks architectural and documentation refinements.
 - `2025-11-27` — capabilities — clarify wording
 - `2025-11-28` — ADR — idempotent execution
 - `2025-11-28` — refine engineering invariants
+- `2025-12-18` — production status update
