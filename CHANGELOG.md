@@ -30,3 +30,4 @@ This log tracks architectural and documentation refinements.
 - `2025-12-18` — production status update
 - `2025-12-24` — terminology cleanup
 - `2025-12-25` — ADR — risk layer veto authority
+- `2026-02-04` — more precise stack list
