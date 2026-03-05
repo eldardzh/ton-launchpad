@@ -32,3 +32,4 @@ This log tracks architectural and documentation refinements.
 - `2025-12-25` — ADR — risk layer veto authority
 - `2026-02-04` — more precise stack list
 - `2026-03-04` — link external references
+- `2026-03-05` — more precise stack list
