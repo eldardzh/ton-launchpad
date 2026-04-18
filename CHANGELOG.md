@@ -35,3 +35,4 @@ This log tracks architectural and documentation refinements.
 - `2026-03-05` — more precise stack list
 - `2026-04-18` — rephrase TL;DR
 - `2026-04-18` — tighten architecture overview
+- `2026-04-18` — contact block tidy
