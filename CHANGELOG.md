@@ -38,3 +38,4 @@ This log tracks architectural and documentation refinements.
 - `2026-04-18` — contact block tidy
 - `2026-04-20` — ADR — queue-backed mutations
 - `2026-04-20` — surface key invariants
+- `2026-04-20` — tighten decisions section
