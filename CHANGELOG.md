@@ -40,3 +40,4 @@ This log tracks architectural and documentation refinements.
 - `2026-04-20` — surface key invariants
 - `2026-04-20` — tighten decisions section
 - `2026-04-20` — terminology cleanup
+- `2026-04-22` — link external references
