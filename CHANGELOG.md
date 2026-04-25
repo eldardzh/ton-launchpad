@@ -43,3 +43,4 @@ This log tracks architectural and documentation refinements.
 - `2026-04-22` — link external references
 - `2026-04-24` — tighten decisions section
 - `2026-04-24` — tighten architecture overview
+- `2026-04-25` — more precise stack list
