@@ -45,3 +45,4 @@ This log tracks architectural and documentation refinements.
 - `2026-04-24` — tighten architecture overview
 - `2026-04-25` — more precise stack list
 - `2026-04-26` — link external references
+- `2026-04-27` — ADR — audit append-only store
