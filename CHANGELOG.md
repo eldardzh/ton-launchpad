@@ -48,3 +48,4 @@ This log tracks architectural and documentation refinements.
 - `2026-04-27` — ADR — audit append-only store
 - `2026-04-27` — trailing whitespace
 - `2026-04-27` — tighten decisions section
+- `2026-04-28` — capabilities — clarify wording
