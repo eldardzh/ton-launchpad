@@ -50,3 +50,4 @@ This log tracks architectural and documentation refinements.
 - `2026-04-27` — tighten decisions section
 - `2026-04-28` — capabilities — clarify wording
 - `2026-05-05` — clarify component responsibilities
+- `2026-05-05` — scope clarification
