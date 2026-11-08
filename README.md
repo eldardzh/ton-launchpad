@@ -1,18 +1,13 @@
-<div align="center">
+<!-- animated-project-banner -->
+<p align="center"><img src="assets/project-banner.svg" width="100%" alt="TON launchpad"></p>
+<!-- /animated-project-banner -->
 
-```
-   ████████╗ ██████╗ ███╗   ██╗
-   ╚══██╔══╝██╔═══██╗████╗  ██║
-      ██║   ██║   ██║██╔██╗ ██║
-      ██║   ██║   ██║██║╚██╗██║
-      ██║   ╚██████╔╝██║ ╚████║
-      ╚═╝    ╚═════╝ ╚═╝  ╚═══╝
-```
+<div align="center">
 
 # TON Launchpad
 
 #### A token launchpad built natively on **TON.**
-#### Contracts in FunC / Tact · backend in NestJS · frontend in Next.js.
+#### Contracts in Tact · backend in NestJS · frontend in Next.js.
 
 [![Status](https://img.shields.io/badge/status-shipped-b9ff66?style=for-the-badge&labelColor=060607)](#)
 [![Role](https://img.shields.io/badge/role-Full--stack%20Engineer-b9ff66?style=for-the-badge&labelColor=060607)](#)
@@ -31,7 +26,7 @@
 
 ## Overview
 
-A TON-native launchpad covering on-chain contracts (FunC / Tact), an
+A TON-native launchpad covering on-chain contracts (Tact), an
 indexer and backend, and a user-facing dApp. Designed to fit TON's
 asynchronous, contract-per-account execution model rather than fight it.
 
@@ -44,7 +39,7 @@ asynchronous, contract-per-account execution model rather than fight it.
 
 > **Full-stack Engineer.** End-to-end ownership on TON.
 
-- TON contract architecture (FunC / Tact)
+- TON contract architecture (Tact)
 - Backend integration (TON SDK, indexer patterns)
 - Frontend dApp and wallet integration
 - Sale lifecycle across TON's async model
@@ -88,10 +83,10 @@ around message-passing semantics from day one.
 The backend doesn't tell the chain what to do — it observes what happened
 and reconciles. Source of truth stays on-chain.
 
-### 3. Tact for new modules, FunC where it matters
+### 3. Typed contracts with Tact
 
-Tact for ergonomics, FunC where bytecode footprint or audit clarity calls
-for it.
+The contract source uses Tact for typed messages and explicit state transitions.
+The surrounding services reconcile those transitions with the chain.
 
 ---
 
